@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/letyomoneytalk/letyomoneytalk/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/letyomoneytalk/letyomoneytalk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
